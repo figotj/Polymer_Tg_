@@ -1,5 +1,5 @@
 # Polymer_Tg_
-Machine Learning Discovery of High-Temperature Polymers
+Code and data for the paper [Machine Learning Discovery of High-Temperature Polymers](https://www.sciencedirect.com/science/article/pii/S2666389921000398).
 
 <img src="Picture1.png" width="100%">
 
